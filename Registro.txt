@@ -1,0 +1,6 @@
+
+------------------------------------------
+Fecha y Hora: Tue Jul 11 16:38:47 2023
+Nombre: Sanchez Carlos
+Movimiento:  Deposito 100
+Saldo: $ 122675
